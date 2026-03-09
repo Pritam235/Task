@@ -1,6 +1,6 @@
-//Task-3 
+//Task-3
 
-// //Section-1  – If / If Else
+// //Section-1  - If / If Else
 
 // // 1. Create a variable num = 15. If number is greater than 10 print 'Number is big'
 
@@ -50,7 +50,7 @@
 
 // //##################################################################################################
 
-// // Section-2 – Else If
+// // Section-2 - Else If
 
 // //1. Create a variable marks. 90+ Grade A, 70+ Grade B, 50+ Grade C, Below 50 Fail
 
@@ -89,7 +89,7 @@
 //     console.log("Number is Zero");
 // }
 
-// //4. Create variable score. If score ≥ 100 Winner, 50–99 Good, Below 50 Try again.
+// //4. Create variable score. If score ≥ 100 Winner, 50-99 Good, Below 50 Try again.
 
 // let score = 75;
 // if (score >= 100) {
@@ -115,7 +115,7 @@
 
 // //##################################################################################################
 
-// // Section-3 –  Switch Statement
+// // Section-3 -  Switch Statement
 
 // //1.Create variable day = 1. Print day name using switch
 
@@ -234,7 +234,7 @@
 
 // //##################################################################################################
 
-// // Section-4 – For Loop
+// // Section-4 - For Loop
 
 // //1. Print numbers 1 to 10.
 
@@ -273,7 +273,7 @@
 
 // //##################################################################################################
 
-// // Section-5 – While Loop
+// // Section-5 - While Loop
 
 // //1.Print numbers 1 to 5 using while
 // let i = 1;
@@ -296,7 +296,7 @@
 // while (k <= 10) {
 //     if (k % 2 === 0) {
 //         console.log(k);
-//     }   
+//     }
 //     k++;
 // }
 
@@ -320,7 +320,7 @@
 
 // //##################################################################################################
 
-// // Section-6 – Do While Loop
+// // Section-6 - Do While Loop
 
 // //1. Print numbers 1 to 5 using do while.
 
@@ -344,7 +344,7 @@
 // do {
 //     if (r % 3 === 0) {
 //         console.log(r);
-//     }   
+//     }
 //     r++;
 // } while (r <= 30);
 
@@ -354,7 +354,7 @@
 // do {
 //     if (s % 4 === 0) {
 //         console.log(s);
-//     }   
+//     }
 //     s++;
 // } while (s <= 20);
 
@@ -368,7 +368,7 @@
 
 // //##################################################################################################
 
-// // Section-7 – For Of
+// // Section-7 - For Of
 
 // //1.Create string 'javascript' and print each character.
 
@@ -400,7 +400,7 @@
 // for (let char of myStr) {
 //     if ("aeiouAEIOU".includes(char)) {
 //         console.log(char);
-//     }   
+//     }
 // }
 
 // //5. Print sum of numbers from an array [10,20,30]
@@ -414,7 +414,7 @@
 
 // //##################################################################################################
 
-// // Section-8 – For In  (Object)
+// // Section-8 - For In  (Object)
 
 // //1. Create object student with name, age, department. Print all values.
 
@@ -453,7 +453,7 @@
 
 // //##################################################################################################
 
-// // Section-9 –  Functions
+// // Section-9 -  Functions
 
 // //1.Create function add(a,b) and return addition.
 
